@@ -12,7 +12,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "Python ExchangeRate API Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk"
+  name = "python-exchange-rate-api-lab"
   type = "Lab"
 }
 
