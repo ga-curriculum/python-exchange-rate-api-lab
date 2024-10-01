@@ -1,11 +1,11 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python ExchangeRate API Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, you will practice making API calls using Python's `requests` library. You'll use the [ExchangeRate API](https://www.exchangerate-api.com/) to fetch current currency exchange rates and manipulate the data within your Python program. This exercise will help you understand how to interact with web APIs, handle JSON data, and build a simple currency converter.
 
 ## Content
 
@@ -14,37 +14,21 @@ tktk Write a short but descriptive summary of the content in this module. Introd
 
 ## Level Up
 
-tktk If there is no Level Up content for this lab, then this section and all of its content should be removed.
-
 🚀 [Level Up](./level-up/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- Python: Requesting Data from APIs
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+Estimated time to complete core lab exercise: **60 min**
 
 ### Solution code
 
-🏁 [tktk Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/python-exchange-rate-api-lab-solution)
 
 ### Resources
 
