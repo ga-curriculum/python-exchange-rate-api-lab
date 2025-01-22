@@ -30,6 +30,11 @@ Estimated time to complete core lab exercise: **60 min**
 
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/python-exchange-rate-api-lab-solution)
 
+### Course landing pages
+
+- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-exchange-rate-api-lab/canvas-landing-pages/apd.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-exchange-rate-api-lab/canvas-landing-pages/fallback.html)
+
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
@@ -40,4 +45,4 @@ Estimated time to complete core lab exercise: **60 min**
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
