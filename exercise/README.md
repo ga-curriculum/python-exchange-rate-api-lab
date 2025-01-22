@@ -27,14 +27,13 @@ In this lab, you will practice making API calls using Python's `requests` librar
 
    The base URL for fetching the latest exchange rates is:
 
-    ```bash
-    https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/USD
-    ```
+   ```bash
+   https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/USD
+   ```
 
    - Replace `YOUR-API-KEY` with the API key you obtained.
 
-   - Replace USD with the three-letter currency code you want to use as the base currency (e.g., EUR, JPY, GBP).
-
+   - Replace USD with the three-letter currency code you want to use as the base currency (ex: EUR, JPY, GBP).
 
 4. Make a GET request to the API endpoint using the requests library.
 
@@ -47,14 +46,14 @@ In this lab, you will practice making API calls using Python's `requests` librar
 
    - Display the exchange rate using a formatted string:
 
-    ```python
-    print(f"The exchange rate from USD to EUR is {exchange_rate}")
-    ```
+   ```python
+   print(f"The exchange rate from USD to EUR is {exchange_rate}")
+   ```
 
-7. Test your code by running 
+7. Test your code by running
 
-    ```bash
-    python3 main.py
-    ```
+   ```bash
+   python3 main.py
+   ```
 
-    Ensure your program outputs the correct exchange rate.
+   Ensure your program outputs the correct exchange rate.

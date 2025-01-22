@@ -49,7 +49,7 @@ while COMMAND != "q":
     COMMAND = input(
         "Choose [e] to get exchange rates, or [q] to quit: ")
     if COMMAND == "e":
-        target_currency = input("Enter the target currency code (e.g., EUR): ").upper() amount = float(input(f"Enter the amount in {base_currency}: "))
+        target_currency = input("Enter the target currency code (ex: EUR): ").upper() amount = float(input(f"Enter the amount in {base_currency}: "))
 
     # Your code here
 ```
