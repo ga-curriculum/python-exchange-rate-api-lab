@@ -5,20 +5,20 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your `~/development/labs` directory:
+Open your Terminal application and navigate to your `~/labs` directory:
 
 ```bash
-cd ~/development/labs
+cd ~/labs
 ```
 
-Make a new directory called `currency-exchange-api-lab`, then enter this directory:
+Make a new directory called `python-exchange-rate-api-lab`, then enter this directory:
 
 ```bash
-mkdir currency-exchange-api-lab
-cd currency-exchange-api-lab
+mkdir python-exchange-rate-api-lab
+cd python-exchange-rate-api-lab
 ```
 
-Create a new file `currency-exchange-api.py` and copy the code snippet below into the new file.
+Create a new file `main.py` and copy the code snippet below into the new file.
 
 ```bash
 touch main.py
