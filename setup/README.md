@@ -5,7 +5,7 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your `~/labs` directory:
+Open your Terminal application and navigate to your **`~/labs`** directory:
 
 ```bash
 cd ~/labs
