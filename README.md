@@ -28,7 +28,7 @@ Estimated time to complete core lab exercise: **60 min**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/python-exchange-rate-api-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/python-exchange-rate-api-lab-solution)
 
 ### Course landing pages
 
